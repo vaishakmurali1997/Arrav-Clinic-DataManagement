@@ -1,0 +1,38 @@
+Add patient : (ENCRYPT)
+  patient : Name
+  patient : Address
+  patient : date
+
+Schedule
+    Name :
+    Descrption :
+    Home / Clinic
+    Date :
+    when :
+    time :
+
+
+Schedule Update
+    name :
+    description:
+    place
+
+Remove schedule
+  Name :
+  Temp add to next queue
+  Perm remove
+
+  username
+  username
+  okay
+    username
+    password
+EMP
+   password
+
+
+
+
+
+   Patient - Appointment;
+   if record empty
